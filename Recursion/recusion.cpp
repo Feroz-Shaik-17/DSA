@@ -21,7 +21,7 @@ int main()
 {
     int n;
     cin>>n;
-    cout<<factorial(n)<<endl;
+    cout<<fib(n)<<endl;
 
     return 0;
 }
